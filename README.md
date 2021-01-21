@@ -8,7 +8,7 @@
 ## 触发方式
 * 点亮`Star`
 * 凌晨4点定时执行
-*  自定义：.github/workflows/work.yaml 编辑 **使用UTC时间，真实对应本地时间要加8小时**
+*  自定义：.github/workflows/work.yaml 编辑 **使用UTC时间，对应的本地时间为加8小时后的结果**
 
 ## 注意问题
 
